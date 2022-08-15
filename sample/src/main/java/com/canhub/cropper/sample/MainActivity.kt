@@ -1,6 +1,7 @@
 package com.canhub.cropper.sample
 
 import android.os.Bundle
+import android.provider.MediaStore
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.example.croppersample.databinding.ActivityMainBinding

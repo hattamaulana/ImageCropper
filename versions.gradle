@@ -19,13 +19,13 @@ ext {
     materialVersion = '1.6.1'
 
     // AndroidX
-    androidXActivity = '1.4.0'
-    androidXAppCompatVersion = '1.4.2'
+    androidXActivity = '1.5.1'
+    androidXAppCompatVersion = '1.5.0'
     androidXExifVersion = '1.3.3'
     androidXCoreKtxVersion = '1.8.0'
     androidXJunitVersion = '1.1.3'
     androidXTestVersion = '1.4.0'
-    androidXFragmentTestingVersion = '1.4.1'
+    androidXFragmentTestingVersion = '1.5.2'
 
     // JUnit
     junitVersion = '4.13.2'
